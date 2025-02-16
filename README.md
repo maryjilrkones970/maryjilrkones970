@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm maryjilrkones970
 
-<!--
-**maryjilrkones970/maryjilrkones970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🏸 🛼 Working on virtual reality 🚵 🏸 🛼
 
-Here are some ideas to get you started:
+## About Me
+✨ 🎯 🎳 Addicted to desktop development ✨ 🎯 🎳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎾 🥊 💡 🏒 Building the future with back-end development 🎾 🥊 💡 🏒
+
+### Fun Facts
+🛶 🎰 🎮 Ready to work on desktop development 🛶 🎰 🎮
+
+---
+🥊 🎯 🌺 🏒 🚣 Thanks for visiting my profile! 💻 🏒 🏏 🏏 🎵
